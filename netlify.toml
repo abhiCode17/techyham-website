@@ -1,8 +1,0 @@
-[build]
-  publish = "build"
-  command = "npm run build"
-
-[[redirects]]
-  from = "/*"
-  to = "/techyham-home.html"
-  status = 200
